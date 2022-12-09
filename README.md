@@ -1,2 +1,2 @@
 # template
-A set of project template
+A set of projects template
